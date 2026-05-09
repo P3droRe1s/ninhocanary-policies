@@ -4,4 +4,3 @@ Este repositório contém a Política de Privacidade e os Termos de Serviço ofi
 
 - [Política de Privacidade](./PRIVACY.md)
 - [Termos de Serviço](./TERMS.md)
-- 
